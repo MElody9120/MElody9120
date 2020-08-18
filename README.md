@@ -2,9 +2,7 @@
 
 <p align="center">
   <a target="_blank" href="https://www.melodyss.com/">Blog</a> •
-  <a target="_blank" href="https://twitter.com/melody83847380">Twitter</a> •
-  <a target="_blank" href="https://user.qzone.qq.com/1606195172">QQ-Zone</a> •
-  <a target="_blank" href="https://meeody2344@gmail.com">E-mail</a>
+  <a target="_blank" href="https://twitter.com/melody83847380">Twitter</a> 
 </p>
 
 ### Github Stats
