@@ -1,0 +1,38 @@
+<h3 align="center">👋 Hello! I'm Melody.</h3>
+
+<p align="center">
+  <a target="_blank" href="https://www.melodyss.com/">Blog</a> •
+  <a target="_blank" href="https://twitter.com/melody83847380">Twitter</a> •
+  <a target="_blank" href="https://user.qzone.qq.com/1606195172">QQ-Zone</a> •
+  <a target="_blank" href="https://meeody2344@gmail.com">E-mail</a>
+</p>
+
+### Github Stats
+
+<a href="https://github.com/MElody9120"><img src="https://github-readme-stats.vercel.app/api?username=MElody9120&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MElody9120&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+
+### Recently I'm coding in...
+
+<a href="https://codestats.net/users/Melody">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/Melody?width=850&height=300&timezone=08:00&history_days=15&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="Melody's Code::Stats history graph" />
+</a>
+
+
+Keep Cooding......:airplane: :heavy_check_mark:
+
+### My Something Intersting-projects
+
+<a href="https://github.com/MElody9120/Miracle-of-AVG">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=MElody9120&repo=Miracle-of-AVG" alt="Miracle-of-AVG" />
+</a>
+<a href="https://github.com/MElody9120/ClassNote">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=MElody9120&repo=ClassNote" alt="ClassNote" />
+</a>
+
+### Blog Posts
+
+Only the latest **1** articles are displayed here. ~~老鸽子了~~ :chicken::chicken::chicken:
+
+* [记一次古镇之行](http://www.melodyss.com/index.php/2018/11/25/travel/)
+
+**See more on [melodyss.com](https://www.melodyss.com).**  
