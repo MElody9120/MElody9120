@@ -2,7 +2,8 @@
 
 <p align="center">
   <a target="_blank" href="https://www.melodyss.com/">Blog</a> •
-  <a target="_blank" href="https://twitter.com/melody83847380">Twitter</a> 
+  <a target="_blank" href="https://twitter.com/melody83847380">Twitter</a>•
+  <a target="_blank" href="https://steamcommunity.com/profiles/76561198181739799/">Steam</a>
 </p>
 
 ### Github Stats
