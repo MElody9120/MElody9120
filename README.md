@@ -21,7 +21,7 @@ Data source From <a href="https://codestats.net/">Code::Stats</a>
 
 Keep Cooding,Keep Missing......:runner: :airplane: :couple_with_heart: :heavy_check_mark:
 
-### My proud Project
+### My Proud Project
 
 <a href="https://github.com/MElody9120/Miracle-of-AVG">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=MElody9120&repo=Miracle-of-AVG" alt="Miracle-of-AVG" />
