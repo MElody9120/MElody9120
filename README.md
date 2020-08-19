@@ -17,22 +17,19 @@
 </a>
 
 
-Data source From <a href="https://codestats.net/">Code:Stats</a>
+Data source From <a href="https://codestats.net/">Code::Stats</a>
 
 Keep Cooding......:airplane: :heavy_check_mark:
 
-### My Something Intersting-projects
+### My proud Project
 
 <a href="https://github.com/MElody9120/Miracle-of-AVG">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=MElody9120&repo=Miracle-of-AVG" alt="Miracle-of-AVG" />
 </a>
-<a href="https://github.com/MElody9120/ClassNote">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=MElody9120&repo=ClassNote" alt="ClassNote" />
-</a>
 
 ### Blog Posts
 
-Only the latest **1** articles are displayed here. ~~老鸽子了~~ :chicken::chicken::chicken:
+Only the latest **1** articles are displayed here. ~~老鸽子~~ :chicken::chicken::chicken:
 
 * [记一次古镇之行](http://www.melodyss.com/index.php/2018/11/25/travel/)
 
