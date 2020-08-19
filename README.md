@@ -19,7 +19,7 @@
 
 Data source From <a href="https://codestats.net/">Code::Stats</a>
 
-Keep Cooding......:airplane: :heavy_check_mark:
+Keep Cooding,Keep missing......:runner: :airplane: :couple_with_heart: :heavy_check_mark:
 
 ### My proud Project
 
@@ -29,7 +29,7 @@ Keep Cooding......:airplane: :heavy_check_mark:
 
 ### Blog Posts
 
-Only the latest **1** articles are displayed here. ~~老鸽子~~ :chicken::chicken::chicken:
+Only the latest **1** articles are displayed here. ~~老鸽子~~ :bird::bird::bird:
 
 * [记一次古镇之行](http://www.melodyss.com/index.php/2018/11/25/travel/)
 
