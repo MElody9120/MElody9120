@@ -19,7 +19,7 @@
 
 Data source From <a href="https://codestats.net/">Code::Stats</a>
 
-Keep Cooding,Keep missing......:runner: :airplane: :couple_with_heart: :heavy_check_mark:
+Keep Cooding,Keep Missing......:runner: :airplane: :couple_with_heart: :heavy_check_mark:
 
 ### My proud Project
 
