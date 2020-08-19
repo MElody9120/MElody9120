@@ -17,7 +17,7 @@
 </a>
 
 
-Data source From <a href="https://codestats.net/">Code::Stats</a>
+Source data From <a href="https://codestats.net/">Code::Stats</a>
 
 Keep Cooding,Keep Missing......:runner: :airplane: :couple_with_heart: :heavy_check_mark:
 
