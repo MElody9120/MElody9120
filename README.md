@@ -6,9 +6,6 @@
   <a target="_blank" href="https://steamcommunity.com/profiles/76561198181739799/">Steam</a>
 </p>
 
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://profile-counter.glitch.me/MElody9120/count.svg" /> <img src="./01.gif" width="32px"> 
-<img align='right' src='./00.webp' height='140px' loading="lazy">
-
 ### Github Stats
 
 <a href="https://github.com/MElody9120"><img src="https://github-readme-stats.vercel.app/api?username=MElody9120&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MElody9120&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
